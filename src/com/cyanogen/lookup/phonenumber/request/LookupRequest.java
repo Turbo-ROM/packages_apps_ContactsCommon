@@ -1,6 +1,6 @@
-package com.cyanogen.lookup.phonenumber.request;
+package com.turbo.lookup.phonenumber.request;
 
-import com.cyanogen.lookup.phonenumber.response.LookupResponse;
+import com.turbo.lookup.phonenumber.response.LookupResponse;
 
 /**
  * Encapsulates the notion of a phone number lookup request

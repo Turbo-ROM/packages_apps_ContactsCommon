@@ -1,6 +1,6 @@
-package com.cyanogen.lookup.phonenumber.contract;
+package com.turbo.lookup.phonenumber.contract;
 
-import com.cyanogen.lookup.phonenumber.request.LookupRequest;
+import com.turbo.lookup.phonenumber.request.LookupRequest;
 
 /**
  * Notion of a phone number lookup provider

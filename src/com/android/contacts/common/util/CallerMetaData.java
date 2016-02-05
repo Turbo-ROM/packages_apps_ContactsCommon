@@ -13,5 +13,5 @@ public class CallerMetaData {
 
     // mimetype for the name of service that helped identify the caller
     public static final String MIMETYPE_SERVICE_IDENTIFIER =
-            "com.cyanogen/callerinfoservice/identifier";
+            "com.turbo/callerinfoservice/identifier";
 }

@@ -1,4 +1,4 @@
-package com.cyanogen.lookup.phonenumber.util;
+package com.turbo.lookup.phonenumber.util;
 
 import android.content.Context;
 import android.os.Handler;
@@ -6,8 +6,8 @@ import android.os.HandlerThread;
 import android.os.Message;
 import android.text.TextUtils;
 import android.util.Log;
-import com.cyanogen.lookup.phonenumber.contract.LookupProvider;
-import com.cyanogen.lookup.phonenumber.request.LookupRequest;
+import com.turbo.lookup.phonenumber.contract.LookupProvider;
+import com.turbo.lookup.phonenumber.request.LookupRequest;
 
 import java.util.HashSet;
 

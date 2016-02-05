@@ -1,4 +1,4 @@
-package com.cyanogen.lookup.phonenumber.response;
+package com.turbo.lookup.phonenumber.response;
 
 import android.graphics.drawable.Drawable;
 
