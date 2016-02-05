@@ -1,9 +1,9 @@
-package com.cyanogen.lookup.phonenumber.provider;
+package com.turbo.lookup.phonenumber.provider;
 
 import android.content.Context;
 import android.os.Handler;
-import com.cyanogen.lookup.phonenumber.contract.LookupProvider;
-import com.cyanogen.lookup.phonenumber.request.LookupRequest;
+import com.turbo.lookup.phonenumber.contract.LookupProvider;
+import com.turbo.lookup.phonenumber.request.LookupRequest;
 
 /**
  * Shell implementation of a phonenumber LookupProvider
